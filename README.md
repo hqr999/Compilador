@@ -3,8 +3,8 @@ Matéria de compiladores
 
 Integrantes
 
-Dennis
+Dennis Lopes da Silva Matozo - RA:11201810444
 
-Henrique
+Henrique Queiroz Reuter - RA:11201812261
 
-Vinicius
+Vinicius Russo - RA:11201921701
