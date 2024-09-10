@@ -1,0 +1,61 @@
+programa meuPrograma
+
+    declare a, b, f: number;
+    declare c,d: decimal;
+    declare x: text;
+
+    inicio
+
+        a := 0;
+        d := 5.0;
+
+        se(d == 5.0) entao
+           escreva(d);
+        senao
+           d:= 5.0;
+        fimse
+        
+        aPartirDe 0 -> 5:
+        	d := d + 1;
+        close
+        
+        escreva(d);
+
+        enquanto(a < 10) inicioEnquanto
+            a := a +1;
+        fimEnquanto
+        
+        escreva(a);
+
+        b := 9 + a / 5 - 1 * 10;
+        
+        escreva(b);
+
+        f := 50;
+        
+        escreva (f);
+
+		leia(x);
+
+		escreva(x);
+
+        c := 10.98;
+        
+        escreva(c);
+        
+        a := 5;
+        
+        se(not (a <> 5)) entao
+        	escreva("a vale 5");
+        fimse
+        
+        se(a == 5 ee c == 10.98) entao
+        	escreva("operador AND esta funcionando");
+        fimse
+        
+        a := (-9) + (-1);
+        
+        escreva(a);
+
+    fim
+fimprog
