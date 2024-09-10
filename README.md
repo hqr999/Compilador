@@ -7,4 +7,4 @@ Dennis Lopes da Silva Matozo - RA:11201810444
 
 Henrique Queiroz Reuter - RA:11201812261
 
-Vinicius Russo - RA:11201921701
+Vinícius Tadeu Russo - RA:11201921701
